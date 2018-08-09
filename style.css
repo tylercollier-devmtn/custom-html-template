@@ -22,3 +22,44 @@ header {
   width: 20%;
   float: right;
 }
+
+main {
+  background: gray;
+  padding: 100px 200px;
+}
+
+.content {
+  /* margin: 100px 200px; */
+  background: black;
+  padding: 50px;
+  height: 300px;
+}
+
+.line1 {
+  background: white;
+  height: 36px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.line2 {
+  background: white;
+  height: 36px;
+  margin: 20px auto 0;
+  width: 70%;
+}
+
+.line3 {
+  margin-top: 20px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  text-align: center;
+}
+
+.pill {
+  display: inline-block;
+  border-radius: 20px;
+  background: white;
+  height: 30px;
+  width: 40%;
+}

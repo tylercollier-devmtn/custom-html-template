@@ -1,0 +1,24 @@
+html {
+  font-family: 'Montserrat';
+}
+
+header {
+  height: 100px;
+  background: black;
+  padding: 14px 50px;
+}
+
+.logo, .search {
+  height: 72px;
+  background: white;
+}
+
+.logo {
+  width: 15%;
+  float: left;
+}
+
+.search {
+  width: 20%;
+  float: right;
+}
